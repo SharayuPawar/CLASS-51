@@ -1,0 +1,38 @@
+
+h1
+{
+    color: fuchsia;
+}
+
+/*{
+    border: solid;
+}*/
+.header{
+    background-color: antiquewhite;
+    font-style: oblique;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    color:lightcoral;
+}
+
+.games{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+p{
+    text-align: center;
+    font-style: italic;
+    color: darkmagenta;
+    
+
+}
+body{
+   background-color: lightseagreen;
+}
+
+.socialmedia{
+    display: flex;
+    justify-content: end;
+}
